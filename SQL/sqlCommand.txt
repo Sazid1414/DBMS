@@ -1,0 +1,10 @@
+//connect sysytem
+--it is used to connect to the sysytem
+//create user (user name) identified by (password) account unlock;
+--we have to create user first time only not all the time . 
+
+--After creating user we have to alter the user every time ;
+
+//alter user (user name) identified by (password) account unlock;
+
+//grant dba to (user name) ;

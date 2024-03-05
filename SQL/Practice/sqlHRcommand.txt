@@ -1,0 +1,6 @@
+connect system;
+pass: root123
+alter user hr identified by hr account unlock;
+grant dba to hr;
+connect hr;
+pass:hr
